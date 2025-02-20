@@ -1,7 +1,8 @@
 # AirBnb Host Recruitment Analysis
 ![AirBnb Logo](https://github.com/AdokshSuryawanshi/Airbnb_Host_Recruitment_Analysis/blob/main/Airbnb-Symbol.jpg)
 
-Overview
+## Overview
+
 This project is an Airbnb host recruitment analysis conducted as part of the Applied Statistics in Marketing Intelligence course at the University of San Francisco. The analysis aims to identify the optimal types of listings, host profiles, and amenities that contribute to higher customer satisfaction and profitability.
 
 Research Questions
