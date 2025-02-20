@@ -18,7 +18,7 @@ What amenities should Airbnb incentivize hosts to offer?
 
 We evaluated amenities based on their impact on revenue, customer satisfaction, and cost-benefit trade-offs.
 
-Key Findings
+## Key Findings
 
 Best Listing Type: Entire homes or apartments accommodating at least 6 guests in Eastern, Southeastern, or Central San Francisco show the highest ratings and revenue.
 
@@ -26,7 +26,7 @@ Best Host Type: Individual hosts managing 1-3 listings achieve the highest ratin
 
 Top Amenities to Offer: Hair dryers, free street parking, dishwashers, self-check-in, and WiFi significantly enhance guest experience and profitability.
 
-Technologies & Methodologies
+## Technologies & Methodologies
 
 Data Analysis: R (linear regression, visualization, statistical modeling)
 
